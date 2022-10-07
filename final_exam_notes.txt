@@ -1,1 +1,3 @@
 cap theorem - 1/2 questions
+parametric and non-parametric models - parametric models assumes a shape like straight line. Non-parametric specific shape is not assumed like decision trees
+what is the ideal values of bias and variance to optimize the loss function? good balance between bias and variance - low bias and low variance
